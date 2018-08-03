@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="last_pic_name">Last file saved (name): \u0020</string>
+    <string name="delete_last">Delete last</string>
+    <string name="delete_all">Delete all</string>
+    <string name="check_if_has_camera">Check if has camera</string>
+    <string name="open_internal_camera">Open internal camera</string>
+</resources>
